@@ -1,0 +1,59 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.upsidedowncross",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "Crosspart",
+					"pivot": [5.1, 12, 10.6],
+					"cubes": [
+						{
+							"origin": [-3.5, 0, -3],
+							"size": [7, 7.5, 7],
+							"uv": {
+								"north": {"uv": [14, 17], "uv_size": [7, 13], "uv_rotation": 180},
+								"east": {"uv": [21, 17], "uv_size": [7, 13], "uv_rotation": 180},
+								"south": {"uv": [7, 17], "uv_size": [7, 13], "uv_rotation": 180},
+								"west": {"uv": [0, 17], "uv_size": [7, 13], "uv_rotation": 180},
+								"up": {"uv": [7, 31], "uv_size": [10, -9], "uv_rotation": 180},
+								"down": {"uv": [7, 30], "uv_size": [-7, -12], "uv_rotation": 180}
+							}
+						},
+						{
+							"origin": [-3.5, 13.5, -3],
+							"size": [7, 12.5, 7],
+							"uv": {
+								"north": {"uv": [12, 11], "uv_size": [10, 20], "uv_rotation": 180},
+								"east": {"uv": [1, 11], "uv_size": [9, 20], "uv_rotation": 180},
+								"south": {"uv": [0, 11], "uv_size": [10, 20], "uv_rotation": 180},
+								"west": {"uv": [8, 11], "uv_size": [9, 20], "uv_rotation": 180},
+								"up": {"uv": [7, 31], "uv_size": [10, -9], "uv_rotation": 180},
+								"down": {"uv": [7, 19], "uv_size": [10, 9], "uv_rotation": 180}
+							}
+						},
+						{
+							"origin": [-9.1, 7.5, -3],
+							"size": [18.5, 6, 7],
+							"uv": {
+								"north": {"uv": [8, 21], "uv_size": [32, 9]},
+								"east": {"uv": [3, 21], "uv_size": [9, 9]},
+								"south": {"uv": [2, 21], "uv_size": [32, 9]},
+								"west": {"uv": [35, 21], "uv_size": [9, 9]},
+								"up": {"uv": [2, 21], "uv_size": [32, 9]},
+								"down": {"uv": [2, 30], "uv_size": [32, -9]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

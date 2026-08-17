@@ -1,0 +1,102 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.WoodenCross.1": {
+			"loop": true,
+			"animation_length": 0.0417,
+			"bones": {
+				"Cross": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, -0.5]
+						},
+						"0.0417": {
+							"vector": [0, 0, 0.5]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [-0.025, 0, 0]
+						},
+						"0.0417": {
+							"vector": [0.03, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.WoodenCross.2": {
+			"loop": true,
+			"animation_length": 0.0417,
+			"bones": {
+				"Cross": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, -1.5]
+						},
+						"0.0417": {
+							"vector": [0, 0, 1.5]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [-0.1, 0, 0]
+						},
+						"0.0417": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.WoodenCross.3": {
+			"loop": true,
+			"animation_length": 0.0417,
+			"bones": {
+				"Cross": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, -3.5]
+						},
+						"0.0417": {
+							"vector": [0, 0, 3.5]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [-0.2, 0, 0]
+						},
+						"0.0417": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.WoodenCross.4": {
+			"loop": true,
+			"animation_length": 0.0417,
+			"bones": {
+				"Cross": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, -6.5]
+						},
+						"0.0417": {
+							"vector": [0, 0, 9.5]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [-0.4, 0, 0]
+						},
+						"0.0417": {
+							"vector": [0.3, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
